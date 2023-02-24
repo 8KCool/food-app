@@ -1,4 +1,4 @@
-# Food-Sweet App
+# Food-Sweet Mobile App
 
 ## Prints
 <p align="center">
